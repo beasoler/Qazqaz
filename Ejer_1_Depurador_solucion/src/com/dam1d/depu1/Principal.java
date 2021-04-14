@@ -1,12 +1,13 @@
-/* Busca la primera letra que aparece más de una vez*/
+/* Busca la primera letra que aparece mï¿½s de una vez*/
 
 package com.dam1d.depu1;
 
 public class Principal {
 	public static void main(String[] args) {
-		testea("Mississippi"); // solución esperada: i (no s ni p)
-		testea("test"); // solución esperada: t
-		testea("Pan"); // solución esperada: 0 (no hay letras repetidas)
+		testea("Mississippi"); // soluciï¿½n esperada: i (no s ni p)
+		testea("test"); // soluciï¿½n esperada: t
+		testea("Pan"); // soluciï¿½n esperada: 0 (no hay letras repetidas)
+		
 	}
 
 	public static void testea(String s) {
